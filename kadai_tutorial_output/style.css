@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    font-size: 6em;
+}
+
+.count {
+    margin: 0;
+    color: #888;
+    font-weight: bold;
+}
+
+.wrap {
+    margin: 20px auto auto;
+    padding: 80px 40px;
+    background-color: #666;
+    color: #fff;
+    font-weight: bold;
+}
+
+.typed {
+    color: lightgreen;
+}
+
+.mistyped {
+    background-color: red;
+}
